@@ -1,5 +1,5 @@
-config.json
-nice-messages.json
+./src/config.json
+./src/nice-messages.json
 
 # Logs
 logs
